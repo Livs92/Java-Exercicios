@@ -1,5 +1,3 @@
-# Java Programming Exercises
-
 Este repositório contém uma série de exercícios práticos em Java, focados em conceitos fundamentais da linguagem.
 
 ## Tarefas e Descrições
