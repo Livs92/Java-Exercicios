@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SistemaDeLogin {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String loginCorreto = "liviarosa";
+        String loginCorreto = "java8";
         int tentativas = 3;
 
         for (int i = 0; i < tentativas; i++) {
