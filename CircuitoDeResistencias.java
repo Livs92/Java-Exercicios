@@ -23,3 +23,4 @@ public class CircuitoDeResistencias {
         scanner.close();
     }
 }
+
