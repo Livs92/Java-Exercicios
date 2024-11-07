@@ -19,3 +19,4 @@ public class CalculadoraDeDesconto {
         scanner.close();
     }
 }
+
